@@ -52,9 +52,9 @@ class Playlist {
       Playlist playlist = new Playlist();
       
       //menambahkan lagu ke playlist
-      playlist.addSong("Lagu 1");
-      playlist.addSong("Lagu 2");
-      playlist.addSong("Lagu 3");
+      playlist.addSong("Apa Mungkin");
+      playlist.addSong("Satu Bulan");
+      playlist.addSong("Untungnya Hidup");
       
       //menampilkan playlist
       playlist.displayPlaylist();
